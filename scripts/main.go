@@ -142,34 +142,5 @@ func main() {
 		return
 	}
 
-	// Generate HTML
-	html := `<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>M3U Playlists</title>
-</head>
-<body>
-    <h1>M3U Playlists</h1>
-    <h2><a href="index.m3u">Complete Playlist</a></h2>
-    <h2>Group-specific Playlists:</h2>
-    <ul>
-`
-
-	for group := range groups {
-		html += fmt.Sprintf("        <li><a href=\"index_%s.m3u\">%s</a></li>\n", group, group)
-	}
-
-	html += `    </ul>
-</body>
-</html>`
-
-	err = ioutil.WriteFile("index.html", []byte(html), 0644)
-	if err != nil {
-		fmt.Printf("Error writing index.html: %v\n", err)
-		return
-	}
-
-	fmt.Println("M3U files, ids.txt, and HTML index generated successfully.")
+	fmt.Println("M3U files, ids.txt generated successfully.")
 }
