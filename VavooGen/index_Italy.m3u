@@ -335,6 +335,13 @@ https://vavoo.to/play/3134481201/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/23919988/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="MEDIASET ITALIA 2 (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MEDIASET ITALIA 2 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/3538009430/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="MOTORTREND (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOTORTREND (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -524,13 +531,6 @@ https://vavoo.to/play/551730224/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/843891896/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="RAI STORIA (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RAI STORIA (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/57338653/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="RAI YOYO (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RAI YOYO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -930,6 +930,13 @@ https://vavoo.to/play/830949486/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3009377513/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="SUPER! (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SUPER! (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2900362153/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TELE CHIARA (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TELE CHIARA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
