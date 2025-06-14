@@ -1007,6 +1007,13 @@ https://vavoo.to/play/1400175199/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/821105122/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="SKY 2 (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY 2 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2001824562/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="SKY ARTS (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY ARTS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1126,13 +1133,6 @@ https://vavoo.to/play/2394496737/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/158352552/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="SKY NEWS (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY NEWS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1872744987/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="SKY NEWS (BACKUP) (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY NEWS (BACKUP) (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1518,13 +1518,6 @@ https://vavoo.to/play/3595438696/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3269335957/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="5 USA (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",5 USA (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2889845752/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5SELECT (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",5SELECT (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1651,6 +1644,13 @@ https://vavoo.to/play/2437334853/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/578027428/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC ONE E MID (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BBC ONE E MID (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/283404811/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC ONE EAST E (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BBC ONE EAST E (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1742,6 +1742,13 @@ https://vavoo.to/play/589867492/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2105758006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC TWO WALES (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BBC TWO WALES (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2906043924/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBCSCOTLANDHD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BBCSCOTLANDHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1749,6 +1756,13 @@ https://vavoo.to/play/2105758006/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3844047623/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BEIN SPORTS LA LIGA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1338646069/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFBS RADIO (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BFBS RADIO (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2008,13 +2022,6 @@ https://vavoo.to/play/3073003913/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2680290176/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5+1 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CHANNEL 5+1 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3712690070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CHANNEL 7 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2204,6 +2211,13 @@ https://vavoo.to/play/2086906681/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1692817765/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EDGESPORT (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EDGESPORT (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/3088351394/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EIR SPORT 1 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EIR SPORT 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2491,13 +2505,6 @@ https://vavoo.to/play/2613146102/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/558674793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HORROR CH+1 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HORROR CH+1 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/199057555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HORROR CHANNEL (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HORROR CHANNEL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2547,13 +2554,6 @@ https://vavoo.to/play/1008690180/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3243593954/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IQRA BANGLA (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",IQRA BANGLA (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1249714559/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IQRA TV (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",IQRA TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3492,6 +3492,13 @@ https://vavoo.to/play/1030793801/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2131677357/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE BOX (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",THE BOX (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1723061357/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE CRAFT STORE (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",THE CRAFT STORE (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3527,6 +3534,13 @@ https://vavoo.to/play/1414100609/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3045212765/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE HITS (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TRACE HITS (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/522332954/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE VAULT (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TRACE VAULT (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
