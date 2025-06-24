@@ -202,6 +202,13 @@ https://vavoo.to/play/2659561974/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2283376730/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="ELRODI (7)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ELRODI (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/3378038047/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ERA TV (7)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ERA TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1091,13 +1098,6 @@ https://vavoo.to/play/2835189450/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3554686365/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="TRING CLASSIC (7)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TRING CLASSIC (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3656419422/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TRING COLLECTION (7)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TRING COLLECTION (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1539,20 +1539,6 @@ https://vavoo.to/play/2714601883/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2163930146/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER 2 KS (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BIG BROTHER 2 KS (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/242611137/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLUE SKY TV (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BLUE SKY TV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/722381466/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BOOMERANG (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1595,13 +1581,6 @@ https://vavoo.to/play/1684402264/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/538638939/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV 2 (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINESTAR TV 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1740275851/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV ACTION (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINESTAR TV ACTION (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1686,6 +1665,20 @@ https://vavoo.to/play/1509148643/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/407320667/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DARK FAMILY (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DARK FAMILY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/4126096007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DARK FANTAZY (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DARK FANTAZY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/813543356/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DARK FARA E FLLIQT (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DARK FARA E FLLIQT (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1735,6 +1728,13 @@ https://vavoo.to/play/3603187173/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3037097418/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DARK MUSIC (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DARK MUSIC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1642921362/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DARK NETFLIX 1 (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DARK NETFLIX 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1840,6 +1840,13 @@ https://vavoo.to/play/1754126945/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3712244746/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELRODI TV (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ELRODI TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2018730890/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPISODE (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EPISODE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3177,6 +3184,13 @@ https://vavoo.to/play/2304301922/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1347567064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP ESTRADA (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOP ESTRADA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1869531427/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOP NEWS (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOP NEWS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3464,13 +3478,6 @@ https://vavoo.to/play/2600890787/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/361330240/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ART SPORT 1 HD (1)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ART SPORT 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1144238417/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ART SPORT 2 HD (1)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ART SPORT 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3541,13 +3548,6 @@ https://vavoo.to/play/2550632094/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2757997483/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER 2 (1)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BIG BROTHER 2 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3821259131/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CUFO TV (1)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CUFO TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3590,6 +3590,13 @@ https://vavoo.to/play/1487806223/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3272334314/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELRODI (1)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ELRODI (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/112491378/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROFILM (1)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EUROFILM (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
