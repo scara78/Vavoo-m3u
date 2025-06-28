@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *'  # Esegui ogni 2 ore
+    - cron: '0 */12 * * *'  # Esegui ogni 12 ore
 
 jobs:
   run-script:
