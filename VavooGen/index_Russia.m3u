@@ -440,13 +440,6 @@ https://vavoo.to/play/1902534877/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/630071135/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="HOME TB (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HOME TB (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2345325196/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="HTB (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HTB (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1742,13 +1735,6 @@ https://vavoo.to/play/251251633/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2697620204/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="РУССКАЯ-КОМЕДИЯ (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РУССКАЯ-КОМЕДИЯ (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1756026494/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="РУССКИЙ-БЕСТСЕЛЛЕР (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",РУССКИЙ-БЕСТСЕЛЛЕР (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1938,6 +1924,13 @@ https://vavoo.to/play/1113667051/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4216517736/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC MUSIC HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CLASSIC MUSIC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1831060051/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",COMEDY HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2127,6 +2120,13 @@ https://vavoo.to/play/4045527153/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/143019046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MCM TOP (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/3696249968/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGAHIT HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MEGAHIT HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2169,6 +2169,13 @@ https://vavoo.to/play/4120553343/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3329616152/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE INTERNATIONAL HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MTV LIVE INTERNATIONAL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1783586546/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX GOLD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MUSIC BOX GOLD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2190,6 +2197,13 @@ https://vavoo.to/play/3544884412/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3212760536/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1850303642/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2197,6 +2211,13 @@ https://vavoo.to/play/3212760536/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/25783989/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR. (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NICK JR. (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1227191489/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PARAMOUNT CHANNEL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2491,13 +2512,6 @@ https://vavoo.to/play/1337037105/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1560652151/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ИЗВЕСТИЯ (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ИЗВЕСТИЯ (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3037360057/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ИЛЛЮЗИОН+ (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ИЛЛЮЗИОН+ (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2869,6 +2883,13 @@ https://vavoo.to/play/1625653914/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4020598586/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТВ +6 (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НТВ +6 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2506433626/index.m3u8
 #EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",НТВ HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3177,13 +3198,6 @@ https://vavoo.to/play/3947732081/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/289420819/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ТНТ (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ТНТ (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3710993242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ТНТ MUSIC (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ТНТ MUSIC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
