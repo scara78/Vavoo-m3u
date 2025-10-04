@@ -41,6 +41,13 @@ https://vavoo.to/play/1210377922/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1840137999/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 90S (6)" tvg-logo="" group-title="Poland ➾ Music" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MTV 90S (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/4164289244/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV POLSKA (6)" tvg-logo="" group-title="Poland ➾ Music" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MTV POLSKA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
