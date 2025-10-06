@@ -76,6 +76,13 @@ https://vavoo.to/play/4165940176/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2048893953/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 9 (6)" tvg-logo="" group-title="Germany ➾ Football" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY BUNDESLIGA 9 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/1199541681/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT PREMIERE LEAGUE (6)" tvg-logo="" group-title="Germany ➾ Football" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT PREMIERE LEAGUE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
