@@ -13,6 +13,13 @@ https://vavoo.to/play/3872684080/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1298083753/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK (6)" tvg-logo="" group-title="Portugal ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN BLACK (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2428861490/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES (6)" tvg-logo="" group-title="Portugal ➾ Movie" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN MOVIES (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
